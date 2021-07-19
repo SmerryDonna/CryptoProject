@@ -1,4 +1,4 @@
-package models;
+package com.coinmarketapi.models;
 
 public class ApiResponse<T> {
     boolean success;

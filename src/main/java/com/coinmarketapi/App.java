@@ -1,4 +1,6 @@
-import models.ApiResponse;
+package com.coinmarketapi;
+
+import com.coinmarketapi.models.ApiResponse;
 
 public class App {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package com.coinmarketapi;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.util.ArrayList;
@@ -15,8 +16,8 @@ import org.apache.http.message.BasicNameValuePair;
 import org.apache.http.util.EntityUtils;
 import org.json.JSONObject;
 
-import helpers.Helper;
-import models.ApiResponse;
+import com.coinmarketapi.helpers.Helper;
+import com.coinmarketapi.models.ApiResponse;
 
 public class ApiManager {
     private static String apiKey = "839fd452-f13c-46ac-80b2-0ee569437ec9";
