@@ -12,26 +12,25 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
-	<classpathentry kind="lib" path="commons-io-2.9.0.jar"/>
-	<classpathentry kind="lib" path="httpclient-4.5.6.jar"/>
-	<classpathentry kind="lib" path="httpcore-4.4.14.jar"/>
 	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/json-20210307.jar"/>
 	<classpathentry kind="lib" path="build.gradle"/>
 	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/fluentsql-jdbctemplate-0.0.8.jar"/>
-	<classpathentry kind="lib" path="spring-jdbc-5.1.8.RELEASE.jar"/>
-	<classpathentry kind="lib" path="spring-security-core-5.3.10.RELEASE.jar"/>
-	<classpathentry kind="lib" path="spring-security-openid-5.3.10.RELEASE.jar"/>
-	<classpathentry kind="lib" path="spring-security-web-5.3.10.RELEASE.jar"/>
-	<classpathentry kind="lib" path="oauth-spring-oauth2-sample-1.0.2.jar"/>
-	<classpathentry kind="lib" path="spring-security-oauth2-2.3.4.RELEASE.jar"/>
-	<classpathentry kind="lib" path="spring-security-config-3.2.10.RELEASE.jar"/>
-	<classpathentry kind="lib" path="lombok-1.18.20.jar"/>
-	<classpathentry kind="lib" path="persistence-api-1.0.2.jar"/>
-	<classpathentry kind="lib" path="gravitee-repository-jpa-0.2.0.jar"/>
-	<classpathentry kind="lib" path="spring-data-jpa-1.8.2.RELEASE.jar"/>
-	<classpathentry kind="lib" path="hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
-	<classpathentry kind="lib" path="spring-data-commons-2.1.10.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/spring-data-jpa-1.8.2.RELEASE.jar"/>
 	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/spring-data-jpa-2.1.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/spring-data-commons-2.1.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/spring-jdbc-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/spring-security-config-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/spring-security-core-5.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/spring-security-oauth2-2.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/spring-security-openid-5.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/spring-security-web-5.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/commons-io-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/gravitee-repository-jpa-0.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/httpcore-4.4.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/lombok-1.18.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/oauth-spring-oauth2-sample-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/persistence-api-1.0.2.jar"/>
 	<classpathentry kind="output" path="bin/default"/>
 </classpath>
