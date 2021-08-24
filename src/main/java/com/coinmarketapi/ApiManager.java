@@ -20,7 +20,8 @@ import com.coinmarketapi.helpers.Helper;
 import com.coinmarketapi.models.ApiResponse;
 
 public class ApiManager {
-    private static String apiKey = "839fd452-f13c-46ac-80b2-0ee569437ec9";
+	//ciao ragazzi
+	private static String apiKey = "839fd452-f13c-46ac-80b2-0ee569437ec9";
 
     public static ApiResponse<Double> getBitcoinPrice() {
         String uri = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest";
