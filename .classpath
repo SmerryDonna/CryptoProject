@@ -32,5 +32,25 @@
 	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/lombok-1.18.20.jar"/>
 	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/oauth-spring-oauth2-sample-1.0.2.jar"/>
 	<classpathentry kind="lib" path="C:/Users/elena/git/CryptoProject/CryptoProject/persistence-api-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/commons-io-2.9.0.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/fluentsql-jdbctemplate-0.0.8.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/gravitee-repository-jpa-0.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/httpclient-4.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/httpcore-4.4.14.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/json-20210307.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/lombok-1.18.20.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/oauth-spring-oauth2-sample-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/persistence-api-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/rest-service-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/spring-data-commons-2.1.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/spring-data-jpa-1.8.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/spring-data-jpa-2.1.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/spring-jdbc-5.1.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/spring-security-config-3.2.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/spring-security-core-5.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/spring-security-oauth2-2.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/spring-security-openid-5.3.10.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/00.Download/Jar/spring-security-web-5.3.10.RELEASE.jar"/>
 	<classpathentry kind="output" path="bin/default"/>
 </classpath>
