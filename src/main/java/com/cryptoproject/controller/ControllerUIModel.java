@@ -49,10 +49,10 @@ public class ControllerUIModel {
 
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				indirizzoProtafoglio = inter.getPortafoglio();
-				previsione = inter.getPrevisione();
-				valuta = inter.getValuta();
-				scommessa = inter.getScommessa();
+				model.setIndirizzo(inter.getPortafoglio());
+				model.setPrevisione(inter.getPrevisione());
+				model.setValuta(inter.getValuta());
+				model.setScommessa(inter.getScommessa());
 				
 				
 			}
@@ -64,8 +64,8 @@ public class ControllerUIModel {
 			
 			@Override
 			public void actionPerformed(ActionEvent e) {
-				username = login.getUsername();
-				psw = login.getPsw();
+				model.setUsername(login.getUsername());
+				model.setPsw(login.getPsw());
 			}
 		};
 		
